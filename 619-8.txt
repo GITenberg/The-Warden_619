@@ -3068,10 +3068,11 @@ the pay to be given to them must depend on the rate of pay for such
 services, according to their market value at the period in question;
 and those who manage the hospital must be the only judges of this."
 
-"And who does manage the hospital?" asked the warden.  "Oh, let them
-find that out; that's another question: the action is brought against
-you and Chadwick; that's your defence, and a perfect and full defence
-it is.  Now that I think very satisfactory."
+"And who does manage the hospital?" asked the warden.
+
+"Oh, let them find that out; that's another question: the action is
+brought against you and Chadwick; that's your defence, and a perfect and
+full defence it is.  Now that I think very satisfactory."
 
 "Well," said the bishop, looking inquiringly up into his friend's
 face, who sat silent awhile, and apparently not so well satisfied.
@@ -3080,7 +3081,7 @@ face, who sat silent awhile, and apparently not so well satisfied.
 jury, which they won't do, no twelve men in England will take five
 minutes to decide against them."
 
-"But according to that" said Mr Harding, "I might as well have sixteen
+"But according to that," said Mr Harding, "I might as well have sixteen
 hundred a year as eight, if the managers choose to allot it to me; and
 as I am one of the managers, if not the chief manager, myself, that
 can hardly be a just arrangement."
@@ -5415,7 +5416,7 @@ more than human.
 "My dear fellow," said he, when Bold had quite done speaking, "I
 really cannot answer for _The Jupiter_."
 
-"But if you saw that these articles were unjust, I think that You
+"But if you saw that these articles were unjust, I think that you
 would endeavour to put a stop to them.  Of course nobody doubts that
 you could, if you chose."
 
@@ -7365,7 +7366,7 @@ the men round him, and raising his own said:--
 
 "God bless you all! you have my heartfelt wishes for your welfare.
 I hope you may live contented, and die trusting in the Lord Jesus
-Christ, and thankful to Almighty God For the good things he has given
+Christ, and thankful to Almighty God for the good things he has given
 you.  God bless you, my friends!" and Mr Harding drank his wine.
 
 Another murmur, somewhat more articulate than the first, passed round
